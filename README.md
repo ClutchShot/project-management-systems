@@ -1,4 +1,3 @@
-# Project description
 # Project Mangemnt System
 
 Helps teams track their tasks
