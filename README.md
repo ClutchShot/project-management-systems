@@ -11,8 +11,11 @@ Helps teams track their tasks
 
 ## Technology stack
 
-### Front-end    
-| Vue | JavaScript | HTML | CSS |
+### Front-end     
+JavaScript, HTML, CSS 
+- Vue
+
+link: https://github.com/Attila9800/front-end
 
 ## 开始
 
