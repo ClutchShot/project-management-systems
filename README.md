@@ -14,18 +14,7 @@ Helps teams track their tasks
 ### Front-end     
 JavaScript, HTML, CSS 
 - Vue
-
 link: https://github.com/Attila9800/front-end
-
-## 开始
-
-### install dependencies
-`npm install`
-### serve with hot reload at localhost:8080
-`npm run dev`
-### build for production with minification
-`npm run build`
-
 
 ### Back-end    
 Java  
