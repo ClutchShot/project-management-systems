@@ -13,7 +13,7 @@ Helps teams track their tasks
 
 ### Front-end     
 JavaScript, HTML, CSS 
-- Vue
+- Vue  
 link: https://github.com/Attila9800/front-end
 
 ### Back-end    
